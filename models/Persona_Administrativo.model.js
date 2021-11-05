@@ -3,6 +3,7 @@ const { Schema } = mongoose;
 
 const Persona_AdministrativoSchema = new Schema({
   nombre: String, //don dima
+  cedula: String,//cedula don dima
   facultad: String, // facci
   Cargo: String, //Conserge
   hoja_vida: String, // link
