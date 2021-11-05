@@ -19,7 +19,7 @@ mongoose.connect(MONGO_URI, {
       },
       personall: {
         nombre: "Solorzano Cadena Ruben Dario", //decana
-        cedula:"1306297159",
+        cedula:"13062971597",
         facultad: "Facultad de Ciencias Informáticas", //facci
         Cargo: "Director de Carrera", //
         Datos: "https://carreras.uleam.edu.ec/facci/wp-content/uploads/sites/26/2019/02/Ing.-R%c3%baben-Solorzano.pdf",
